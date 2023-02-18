@@ -96,7 +96,7 @@ buttons = [
         InlineKeyboardButton(text="ʙᴀɴᴛᴜᴀɴ", callback_data="kynan_support"
        ),
         InlineKeyboardButton(
-            text="ᴅᴏɴᴀsɪ ❤️", callback_data="kynan_own"
+            text="ᴅᴏɴᴀsɪ", callback_data="kynan_own"
        ),
     ],
     [
