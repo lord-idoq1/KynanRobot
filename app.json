@@ -23,12 +23,12 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "1634450"
+         "value": "25068063"
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "1a42e816cae8d86e71a4c466bba19b8c"
+         "value": "362df6f94a7fd72cbf7d193b64de5b04"
       },
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
@@ -37,7 +37,7 @@
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
          "required": true,
-         "value": ""
+         "value": "SADHAZ7VT717K66N"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
@@ -51,32 +51,32 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001812143750"
+         "value": "-1001843521870"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": ""
+         "value": "mongodb+srv://VegetaMusic:Vegeta@cluster0.dohyl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "951454060"
+         "value": "5857516565"
       },
       "OWNER_USERNAME": {
          "description": "Fill Username Without @.",
          "required": true,
-         "value": "Riizzvbss"
+         "value": "NothingWibusoft"
       },
       "BOT_USERNAME": {
          "description": "Fill Username Without @.",
          "required": true,
-         "value": "KynanUserbot"
+         "value": "Mahayabank_asistenbot"
       },
       "BOT_NAME": {
          "description": "Fill Bot Name.",
          "required": true,
-         "value": "˹ҡʏɴλɴ ꭙ ꝛᴏʙᴏᴛ˼༗"
+         "value": "˹𝐌𝐀𝐇𝐀𝐘𝐀𝐁𝐀𝐍𝐊"
       },
       "DONATE_LINK": {
          "description": "Fill Qris Link.",
@@ -91,17 +91,18 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "kynansupport"
+         "value": "mahayabanknih"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
          "required": true,
-         "value": ""
+         "value": "SNQTVJDIAPVM"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
          "required": true,
-         "value": ""
+         "value": "6128675316:AAGm2MppSASvJeLiBZDLjYLp9i1c1CaB4M4"
       }
    }
 }
+
