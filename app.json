@@ -23,12 +23,12 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "25068063"
+         "value": "20594437"
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "362df6f94a7fd72cbf7d193b64de5b04"
+         "value": "269d0ce84de3b3dba4e6f0089fd8efec"
       },
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
@@ -51,32 +51,32 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001843521870"
+         "value": "-1001892437618"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": "mongodb+srv://VegetaMusic:Vegeta@cluster0.dohyl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+         "value": "mongodb+srv://marko:mSOAUhiWxozTz4a6@cluster0.gzsfr0m.mongodb.net/?retryWrites=true&w=majority"
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5857516565"
+         "value": "1976061168"
       },
       "OWNER_USERNAME": {
          "description": "Fill Username Without @.",
          "required": true,
-         "value": "NothingWibusoft"
+         "value": "PoenyaBee"
       },
       "BOT_USERNAME": {
          "description": "Fill Username Without @.",
          "required": true,
-         "value": "Mahayabank_asistenbot"
+         "value": "Sexevolution_managebot"
       },
       "BOT_NAME": {
          "description": "Fill Bot Name.",
          "required": true,
-         "value": "˹𝐌𝐀𝐇𝐀𝐘𝐀𝐁𝐀𝐍𝐊"
+         "value": "˹SEX EVOLUTION"
       },
       "DONATE_LINK": {
          "description": "Fill Qris Link.",
@@ -86,12 +86,12 @@
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://telegra.ph//file/1d5a4b3398dc3cd1e3c0c.jpg"
+         "value": "https://te.legra.ph/file/9c28e6f1025f9147543a6.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "mahayabanknih"
+         "value": "+vpGZKznd9n83MjE1"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
@@ -101,7 +101,7 @@
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
          "required": true,
-         "value": "6128675316:AAGm2MppSASvJeLiBZDLjYLp9i1c1CaB4M4"
+         "value": "5673807687:AAFBvwD51m1WvROlNIDbz87T1C3kzwcd2RE"
       }
    }
 }
