@@ -87,9 +87,9 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/{OWNER_USERNAME}"
+        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/PoenyaBee"
         ),
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/{SUPPORT_CHAT}"
+        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/+vpGZKznd9n83MjE1"
         ),
     ],
     [
