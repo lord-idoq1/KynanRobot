@@ -76,7 +76,7 @@
       "BOT_NAME": {
          "description": "Fill Bot Name.",
          "required": true,
-         "value": "˹SEX EVOLUTION"
+         "value": "SEX EVOLUTION"
       },
       "DONATE_LINK": {
          "description": "Fill Qris Link.",
