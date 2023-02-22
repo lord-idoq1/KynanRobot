@@ -59,7 +59,7 @@ async def mentionall(event):
         usrtxt += f"[{usr.first_name}](tg://user?id={usr.id}), "
         if usrnum == 5:
             if mode == "text_on_cmd":
-                txt = f"{msg}\n{usrtxt}"
+                txt = f"{msg}\n\n{usrtxt}"
                 await client.send_message(chat_id, txt)
             elif mode == "text_on_reply":
                 await msg.reply(usrtxt)
@@ -73,6 +73,7 @@ async def mentionall(event):
 
 
 @client.on(events.NewMessage(pattern="^/cancel$"))
+@client.on(events.NewMessage(pattern="^/batal$"))
 async def cancel_spam(event):
     if not event.chat_id in spam_chats:
         return await event.respond("__There is no proccess on going...__")
@@ -102,4 +103,6 @@ __help__ = """
 ──「 Only for Admins 」──
 
 ᐉ /tagall or @all '(reply to message or add another message) To mention all members in your group, without exception.'
+ᐉ /batal (stop mentions tagall)
+ᐉ /cancel untuk memberhentikan tagall
 """
