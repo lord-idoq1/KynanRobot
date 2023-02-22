@@ -86,7 +86,7 @@
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://te.legra.ph/file/9c28e6f1025f9147543a6.jpg"
+         "value": "https://te.legra.ph/file/1d256ef33445db17e3513.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
