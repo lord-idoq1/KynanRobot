@@ -23,12 +23,12 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "20594437"
+         "value": "27988566"
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "269d0ce84de3b3dba4e6f0089fd8efec"
+         "value": "127f2630690adc5fd2795c1eb0e131af"
       },
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
@@ -51,32 +51,32 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001892437618"
+         "value": "-100606739834"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": "mongodb+srv://marko:mSOAUhiWxozTz4a6@cluster0.gzsfr0m.mongodb.net/?retryWrites=true&w=majority"
+         "value": "mongodb+srv://Managee:DvXrvpC0qkNFdmn4@cluster0.fupa0tn.mongodb.net/?retryWrites=true&w=majority"
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1976061168"
+         "value": "5857516565"
       },
       "OWNER_USERNAME": {
          "description": "Fill Username Without @.",
          "required": true,
-         "value": "PoenyaBee"
+         "value": "NothingWibusoft"
       },
       "BOT_USERNAME": {
          "description": "Fill Username Without @.",
          "required": true,
-         "value": "Sexevolution_managebot"
+         "value": "mahayabank_Asistenbot"
       },
       "BOT_NAME": {
          "description": "Fill Bot Name.",
          "required": true,
-         "value": "SEX EVOLUTION"
+         "value": "MAHAYANABANK"
       },
       "DONATE_LINK": {
          "description": "Fill Qris Link.",
@@ -91,7 +91,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "+vpGZKznd9n83MjE1"
+         "value": "mahayabanknih"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
@@ -101,7 +101,7 @@
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
          "required": true,
-         "value": "5673807687:AAFBvwD51m1WvROlNIDbz87T1C3kzwcd2RE"
+         "value": "6096878181:AAHCQcl60DqUFTpA340DNb8S-V4BQjyMYNA"
       }
    }
 }
