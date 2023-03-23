@@ -30,7 +30,7 @@ async def mentionall(event):
         ):
             is_admin = True
     if not is_admin:
-        return await event.respond("__Only admins can mention all!__")
+        return await event.respond("__Hanya admin yang menggunakan!__")
 
     if event.pattern_match.group(1) and event.is_reply:
         return await event.respond("__Give me one argument!__")
@@ -46,7 +46,7 @@ async def mentionall(event):
             )
     else:
         return await event.respond(
-            "__Reply to a message or give me some text to mention others!__"
+            "__Reply pesan yang ingin di sampaikan ke member!__"
         )
 
     spam_chats.append(chat_id)
@@ -56,7 +56,7 @@ async def mentionall(event):
         if not chat_id in spam_chats:
             break
         usrnum += 1
-        usrtxt += f"[{usr.first_name}](tg://user?id={usr.id}), "
+        usrtxt += f"🔰[{usr.first_name}](tg://user?id={usr.id})\n "
         if usrnum == 5:
             if mode == "text_on_cmd":
                 txt = f"{msg}\n\n{usrtxt}"
@@ -76,7 +76,7 @@ async def mentionall(event):
 @client.on(events.NewMessage(pattern="^/batal$"))
 async def cancel_spam(event):
     if not event.chat_id in spam_chats:
-        return await event.respond("__There is no proccess on going...__")
+        return await event.respond("__Berhasil Memberhentikan tag all member...__")
     is_admin = False
     try:
         partici_ = await client(GetParticipantRequest(event.chat_id, event.sender_id))
@@ -88,14 +88,14 @@ async def cancel_spam(event):
         ):
             is_admin = True
     if not is_admin:
-        return await event.respond("__Only admins can execute this command!__")
+        return await event.respond("__Hanya admin yang dapat menggunakan!__")
 
     else:
         try:
             spam_chats.remove(event.chat_id)
         except:
             pass
-        return await event.respond("__Stopped Mention.__")
+        return await event.respond("__stop tag all__")
 
 
 __mod_name__ = "Tag-All"
