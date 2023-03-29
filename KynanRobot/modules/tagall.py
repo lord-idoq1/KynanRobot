@@ -56,7 +56,7 @@ async def mentionall(event):
         if not chat_id in spam_chats:
             break
         usrnum += 1
-        usrtxt += f"🔰[{usr.first_name}](tg://user?id={usr.id})\n "
+        usrtxt += f" 🔰[{usr.first_name}](tg://user?id={usr.id})\n "
         if usrnum == 5:
             if mode == "text_on_cmd":
                 txt = f"{msg}\n\n{usrtxt}"
@@ -95,7 +95,7 @@ async def cancel_spam(event):
             spam_chats.remove(event.chat_id)
         except:
             pass
-        return await event.respond("__stop tag all__")
+        return await event.respond("__Berhasil memberhentikan tag member__")
 
 
 __mod_name__ = "Tag-All"
