@@ -23,12 +23,12 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "27988566"
+         "value": "22684693"
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "127f2630690adc5fd2795c1eb0e131af"
+         "value": "0acbced07a5ae4711160c77c3277bd86"
       },
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
@@ -51,7 +51,7 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-100606739834"
+         "value": "-1001923738560"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -66,17 +66,17 @@
       "OWNER_USERNAME": {
          "description": "Fill Username Without @.",
          "required": true,
-         "value": "NothingWibusoft"
+         "value": "CIGEMOOY"
       },
       "BOT_USERNAME": {
          "description": "Fill Username Without @.",
          "required": true,
-         "value": "mahayabank_Asistenbot"
+         "value": "asisten_Musicbot"
       },
       "BOT_NAME": {
          "description": "Fill Bot Name.",
          "required": true,
-         "value": "MAHAYANABANK"
+         "value": "AREA FOR SEX"
       },
       "DONATE_LINK": {
          "description": "Fill Qris Link.",
@@ -91,7 +91,7 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "mahayabanknih"
+         "value": "+177LpXfU7t0wNzQ1"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
@@ -101,7 +101,7 @@
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
          "required": true,
-         "value": "6096878181:AAHCQcl60DqUFTpA340DNb8S-V4BQjyMYNA"
+         "value": "6162894250:AAFr13RGFcfPX-kYHZ3YF1-pjkH4uH5UWX0"
       }
    }
 }
