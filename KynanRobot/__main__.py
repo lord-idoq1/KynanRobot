@@ -86,9 +86,9 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/aypnybe"
+        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://t.me/CIGEMOOY"
         ),
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/+vpGZKznd9n83MjE1"
+        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/+177LpXfU7t0wNzQ1"
         ),
     ],
     [
@@ -100,7 +100,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="ᴛᴀᴍʙᴀʜᴋᴀɴ ᴀᴋᴜ ᴅɪʜᴀᴛɪᴍᴜ ❤️", url="https://t.me/mahayabank_Asistenbot?startgroup=true"
+            text="ᴛᴀᴍʙᴀʜᴋᴀɴ ᴀᴋᴜ ᴅɪʜᴀᴛɪᴍᴜ ❤️", url="https://t.me/asisten_Musicbot?startgroup=true"
         ),
      ],
 ]
